@@ -19,18 +19,7 @@
   margin-top: calc(0px - 1.5rem - 6px);
 }
 
-.avatar {
-  /* com isso resolvemos */
-  /* box-sizing: initial; */
-  /* Com tudo isso a foto ficou menor do que deveria
-   A outra forma é usando o calculo no CSS
-  */
-  width: calc(3rem + 20px);
-  height: calc(3rem + 20px);
-  border-radius: 8px;
-  border: 4px solid var(--gray-800);
-  outline: 2px solid var(--green-500);
-}
+
 
 .profile strong {
   margin-top: 1rem;
